@@ -1,3 +1,5 @@
+
+
 # Agent Smart Memo
 
 > **ASM v5.1** is a super memory platform for coding agents: **conversation memory + project memory + retrieval/control plane**, delivered through a single package and a CLI-first install flow.
@@ -395,6 +397,7 @@ src/
     contracts/
     usecases/
     ingest/
+  commands/
   db/
   hooks/
   services/
